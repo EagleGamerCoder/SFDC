@@ -1,0 +1,28 @@
+{
+  "information_embeds": {
+    "server-information": {
+      "channel_id": 0,
+      "title": "Server Information",
+      "description": "Add your community overview, ER:LC joining instructions, and important links here.",
+      "colour": "#5865F2",
+      "footer": "Configure this message in content/server_content.json",
+      "fields": [
+        {
+          "name": "Getting started",
+          "value": "Use the buttons below to open your community resources.",
+          "inline": false
+        }
+      ],
+      "links": []
+    },
+    "staff-information": {
+      "channel_id": 0,
+      "title": "Staff Information",
+      "description": "Add staff handbook, training, or shift-policy links here.",
+      "colour": "#57F287",
+      "footer": "Only staff can publish this template.",
+      "fields": [],
+      "links": []
+    }
+  }
+}
